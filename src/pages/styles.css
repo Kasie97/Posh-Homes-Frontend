@@ -1,0 +1,22 @@
+export body{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+export .form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+export .row{
+width: 100%;
+}
+
+export .input{
+    align-self: center;
+        justify-self: center;
+       
+}
